@@ -1,0 +1,62 @@
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Module 11 VoiceTexterBot.exe
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Module 11 VoiceTexterBot.deps.json
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Module 11 VoiceTexterBot.runtimeconfig.json
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Module 11 VoiceTexterBot.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Module 11 VoiceTexterBot.pdb
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.csproj.AssemblyReference.cache
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.AssemblyInfoInputs.cache
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.AssemblyInfo.cs
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.csproj.CoreCompileInputs.cache
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.csproj.CopyComplete
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\refint\Module 11 VoiceTexterBot.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.pdb
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\Module 11 VoiceTexterBot.genruntimeconfig.cache
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\obj\Debug\net6.0\ref\Module 11 VoiceTexterBot.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\FFMpegCore.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Instances.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\libgcc_s_seh-1.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\libstdc++-6.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\libvosk.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\libwinpthread-1.dll
+C:\Users\saint\source\repos\Module 11 VoiceTexterBot\Module 11 VoiceTexterBot\bin\Debug\net6.0\Vosk.dll
